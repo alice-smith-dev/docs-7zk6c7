@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-4i00f3.salamcuan.shop/sitemap.xml
